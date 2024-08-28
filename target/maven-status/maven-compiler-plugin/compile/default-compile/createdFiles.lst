@@ -1,0 +1,4 @@
+com\natanxds\url_shortener\controller\UrlController.class
+com\natanxds\url_shortener\entity\UrlEntity.class
+com\natanxds\url_shortener\dto\ShortenerUrlRequest.class
+com\natanxds\url_shortener\repository\UrlRepository.class
